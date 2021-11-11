@@ -35,12 +35,12 @@ header {
   
 
 footer{
-  background-color:#8f6c20 ;//color of the bottom//
+  background-color:#8f6c20 ;/*color of the bottom*/
   color: #FFFCF7;
   
 }
  
-.image{//this changes size and quality of the picture//
+.image{/*this changes size and quality of the picture*/
   margin-top: 25px;
   margin-bottom: 10px;
   border-radius: 13px;
@@ -59,4 +59,4 @@ color: blue
 }
 a:active{
 color: white
-}//this changes the color of the link in footer//
+}/*this changes the color of the link in footer*/
